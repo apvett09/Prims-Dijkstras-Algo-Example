@@ -1,0 +1,8 @@
+﻿  Graph.cpp
+C:\Dev\SoftwareEngineeringUMDearborn\CIS3501 Data Struct and Alg Analysis\CIS3501 P3\P3\P3\Graph.cpp(466,25): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Dev\SoftwareEngineeringUMDearborn\CIS3501 Data Struct and Alg Analysis\CIS3501 P3\P3\P3\main.cpp(159,25): warning C4018: '<': signed/unsigned mismatch
+  minHeapPQ.cpp
+  Generating Code...
+C:\Dev\SoftwareEngineeringUMDearborn\CIS3501 Data Struct and Alg Analysis\CIS3501 P3\P3\P3\minHeapPQ.cpp(122): warning C4715: 'minHeapPQ::extractMin': not all control paths return a value
+  CIS3501 P4.vcxproj -> C:\Dev\SoftwareEngineeringUMDearborn\CIS3501 Data Struct and Alg Analysis\CIS3501 P4\Debug\CIS3501 P4.exe
